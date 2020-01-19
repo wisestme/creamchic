@@ -1,7 +1,7 @@
 body {
 	background-color: #192021;
 	text-align: center;
-	background-image: url(../img/help2.jpeg);
+	background-image: url(../img/creamchic_makeup.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100vh;
@@ -15,6 +15,7 @@ header {
 }
 
 img {
+	margin-top: 2em;
 	float: left;
 	border-radius: 50%;
 	width: 20%;
