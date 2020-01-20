@@ -7,15 +7,15 @@ body {
 	height: 100vh;
 	margin: 0;
 	color: #fff;
+	font-family: verdana;
 }
 
 header {
-	
+	padding: 1em;
 
 }
 
 img {
-	margin-top: 2em;
 	float: left;
 	border-radius: 50%;
 	width: 20%;
@@ -23,6 +23,10 @@ img {
 
 .clear {
 	clear: both;
+}
+
+h1 {
+	font-size: 30px;
 }
 
 .col {
